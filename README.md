@@ -14,7 +14,7 @@
 
 ### Links:
 
-[![Website](https://img.shields.io/badge/Website-white?style=flat&logo=github&logoColor=black)](https:ollyjarvis.github.io) 
+[![Website](https://img.shields.io/badge/Website-white?style=flat&logo=github&logoColor=black)](https://ollyjarvis.github.io) 
 
 [![linkedin](https://img.shields.io/badge/Oliver_Jarvis-white?style=flat&logo=linkedin&logoColor=blue&)](https://www.linkedin.com/in/oliver-jarvis)
 
