@@ -1,6 +1,6 @@
-![Stats](https://github-readme-stats.vercel.app/api?username=ollyjarvis&show_icons=true&theme=dark)
+![Olly's Stats](https://github-readme-stats.vercel.app/api?username=ollyjarvis&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ollyjarvis&theme=dark)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ollyjarvis&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ollyjarvis/ollyjarvis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
