@@ -5,7 +5,7 @@
 ### Languages:
 ```json
 {
-    "studying": "Java, C, R",
+    "studying": "Java, C, R, SQLite",
     "used": "C, C#, R, Rust, Python, Java",
     "want to learn": "Rust"
 }
