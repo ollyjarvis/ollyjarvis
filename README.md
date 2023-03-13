@@ -6,7 +6,7 @@
 ```json
 {
     "studying": "Java, C, R, SQLite",
-    "used": "C, C#, R, Rust, Python, Java",
+    "used": "C, C#, R, Rust, Python, Java, SQLite",
     "want to learn": "Rust"
 }
 ```
