@@ -21,7 +21,7 @@
 ### Systems:
 
 
-![OS](https://img.shields.io/badge/Operating_Systems:-333?style=for-the-badge) [![OS - Windows](https://img.shields.io/badge/Windows-00a2ed?style=for-the-badge&logo=Windows&logoColor=white)](https://en.wikipedia.org/wiki/Microsoft_Windows) [![OS - Kali](https://img.shields.io/badge/kali_linux-06051F?style=for-the-badge&logo=kalilinux&logoColor=white)](https://en.wikipedia.org/wiki/Kali_Linux) [![OS - RedHat](https://img.shields.io/badge/rhel-CC0000?style=for-the-badge&logo=redhat&logoColor=white)](https://en.wikipedia.org/wiki/Red_Hat_Enterprise_Linux)
+![OS](https://img.shields.io/badge/Operating_Systems:-333?style=for-the-badge) [![OS - Windows](https://img.shields.io/badge/Windows-00a2ed?style=for-the-badge&logo=Windows&logoColor=white)](https://en.wikipedia.org/wiki/Microsoft_Windows) [![OS - Arch](https://img.shields.io/badge/arch_linux-06051F?style=for-the-badge&logo=kalilinux&logoColor=white)](https://en.wikipedia.org/wiki/Kali_Linux) [![OS - RedHat](https://img.shields.io/badge/rhel-CC0000?style=for-the-badge&logo=redhat&logoColor=white)](https://en.wikipedia.org/wiki/Red_Hat_Enterprise_Linux)
 
 ![PC](https://img.shields.io/badge/PC:-333?style=for-the-badge) [![OS - Windows](https://img.shields.io/badge/Windows-00A2ED?style=for-the-badge&logo=Windows&logoColor=white)](https://en.wikipedia.org/wiki/Microsoft_Windows) [![CPU](https://img.shields.io/badge/Ryzen_5600x-ED1C24?style=for-the-badge&logo=amd&logoColor=black)](https://www.amd.com/en/products/cpu/amd-ryzen-5-5600x) ![GPU](https://img.shields.io/badge/RTX_3070-76b900?style=for-the-badge&logo=nvidia&logoColor=white)
 
